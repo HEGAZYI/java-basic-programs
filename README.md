@@ -17,5 +17,5 @@ Call By Value
 Sorting An Array
 Link Of The Course:https://olympus.mygreatlearning.com/courses/59442
 I Have Solved This Basic Problems By My Own Way
-Link Of My Solutions On Github:
+Link Of My Solutions On Github:https://github.com/HEGAZYI/java-basic-programs
 "Enjoy Coding"
